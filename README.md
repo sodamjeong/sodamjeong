@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=soft&customColorList=0,2,2,5,30&height=150&section=header&text=✨DAMI'S%20CODEWORLD✨&fontSize=55&animation=twinkling&fontColor=4C4C4C)
 
 [![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/sodamjeong/TIL)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=White)](github.com/sodamjeong/TIL/markdown/markdown.md)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=White)](github.com/sodamjeong/TIL/blob/master/markdown/markdown.md)
