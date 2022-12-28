@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-[![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/sodamjeong/TIL)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=White)](github.com/sodamjeong/TIL)
+![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=White)
   
   <div align=center><h3>🛠 TOOL</h3></div>                                                    
 
