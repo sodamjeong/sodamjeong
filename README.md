@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&customColorList=0,2,2,5,30&height=150&section=header&text=✨DAMI'S%20CODEWORLD✨&fontSize=55&animation=twinkling&fontColor=4C4C4C)
+
+[![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/sodamjeong/TIL)
