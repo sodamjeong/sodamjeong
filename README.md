@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align=center> 
   
-![header](https://capsule-render.vercel.app/api?type=soft&customColorList=0,2,2,5,30&height=100&section=header&text=✨DAMI'S%20CODEWORLD✨&fontSize=55&animation=twinkling&fontColor=4C4C4C)
+![header](https://capsule-render.vercel.app/api?type=soft&customColorList=0,2,2,5,30&height=100&section=header&text=✨Dami's%20Cording%20World✨&fontSize=45&animation=twinkling&fontColor=4C4C4C)
 
 <div align=center><h3>📚 STUDY</h3></div>                                                    
 
