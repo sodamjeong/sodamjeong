@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align=center> 
   
-![header](https://capsule-render.vercel.app/api?type=soft&customColorList=0,2,2,5,30&height=70&section=header&text=✨Dami's%20Cording%20World✨&fontSize=35&animation=twinkling&fontColor=4C4C4C)
+![header](https://capsule-render.vercel.app/api?type=soft&customColorList=0,2,2,5,30&height=70&section=header&text=✨Dami's%20Coding%20World✨&fontSize=35&animation=twinkling&fontColor=4C4C4C)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&pause=1000&color=9199F7E4&center=true&width=435&lines=Hello.+I+am+DAMI+%3AD)
   
   
