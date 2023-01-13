@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 ![header](https://capsule-render.vercel.app/api?type=soft&customColorList=0,2,2,5,30&height=70&section=header&text=✨Dami's%20Coding%20World✨&fontSize=35&animation=twinkling&fontColor=4C4C4C)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Bubbles&pause=1000&color=9199F7E4&center=true&width=435&lines=Hello.+I+am+DAMI+%3AD)
-  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sodami828)](https://solved.ac/sodami828)  
   
 <div align=center><h3>📚 STUDY</h3></div>                                                    
 
@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=sodamjeong&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sodami828)](https://solved.ac/sodami828/)
   #### 😀자기소개
 
 ---
