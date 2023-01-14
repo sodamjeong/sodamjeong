@@ -38,4 +38,3 @@ Here are some ideas to get you started:
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=sodamjeong&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sodamjeong&theme=nightowl&show_icons=true)
