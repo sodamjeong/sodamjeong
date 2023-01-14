@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=White)
  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=White)
   
- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={sodamjeong})](https://solved.ac/sodami828) <br/>
+ [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=sodami828)](https://solved.ac/sodami828) <br/>
   
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=sodamjeong&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
