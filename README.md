@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=White)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
   
   <div align=center><h3>🛠 TOOL</h3></div>                                                    
 
