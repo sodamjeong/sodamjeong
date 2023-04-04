@@ -31,13 +31,14 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)<br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=flat-square&logo=Javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20.svg?&style=flat-square&logo=Django&logoColor=white)
   
 
   
  [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=sodami828)](https://solved.ac/sodami828) <br/>
   
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sodamjeong&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=sodamjeong&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
   
