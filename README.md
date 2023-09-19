@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 
+
 <div align=center> 
   
 ![header](https://capsule-render.vercel.app/api?type=soft&customColorList=0,2,2,5,30&height=70&section=header&text=✨Dami's%20Coding%20World✨&fontSize=35&animation=twinkling&fontColor=4C4C4C)
